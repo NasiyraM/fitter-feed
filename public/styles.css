@@ -1,0 +1,46 @@
+h1 {
+    font-family: "Centeria Script";
+    font-size: 50px;
+    margin-left: 10px;
+    margin-bottom: 0%;
+    margin-top: 10px;
+    
+}
+
+h3 {
+    margin-left: 20px;
+    font-family: Lobster;
+    margin-bottom: 30px;
+    font-size: 30px;
+
+
+}
+
+body {
+    background-image: url("img/fitter-bg-pic.jpg");
+    
+}
+
+.center-text {
+    text-align: center;
+}
+
+  /* .mainDiv {
+    height: 1200px;
+    background-color: cadetblue;
+}   */
+
+ .picPad {
+    margin-bottom:20px;
+} 
+
+#profileBg {
+    background-image: url("img/profile-bg7.jpeg");
+    height: 300px;
+    
+}
+
+
+.mt {
+    margin-top: 10px;
+}
