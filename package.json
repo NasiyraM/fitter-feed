@@ -1,0 +1,24 @@
+{
+  "name": "fitter-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasiyraM/fitter-feed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NasiyraM/fitter-feed/issues"
+  },
+  "homepage": "https://github.com/NasiyraM/fitter-feed#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "pg-promise": "^10.6.0"
+  }
+}
