@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NasiyraM/fitter-feed#readme",
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.7.2",
     "express": "^4.17.1",
     "pg-promise": "^10.6.0"
